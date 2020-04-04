@@ -12,10 +12,10 @@ Every aspect of the system runs online and therefore requires you to be connecte
 
 * Use your own internet connection instead of a shared connection so you have greater control
 * Keep a 3G / 4G mobile internet connection as a backup in-case there is an interruption with your normal connection. Consider using your phone on hotspot mode for such instances.
-* Consider exclusively using a 3G / 4G / 5G mobile internet connection.
+* Consider exclusively using a 3G / 4G mobile internet connection. Certain countries have a much more reliable mobile network such as Australia.
 
 {% hint style="warning" %}
-IT staff occasionally set up an internet firewall for small business to prevent accessing harmful content. Ensure that menupas.com is white-listed on your firewall to avoid connection issues to our servers.
+IT staff occasionally set up an internet firewall for small business to prevent accessing harmful content. Ensure that cloudwaitress.com is white-listed on your firewall to avoid connection issues to our servers.
 {% endhint %}
 
 ## Computer or Tablet
@@ -38,7 +38,7 @@ Compatible devices:
 
 ## Recommended Computers & Tablets
 
-We highly recommend using an Android device or Windows 10 tablet/computer. Windows provides the greatest flexibility and allows for wireless order printing whilst being able to use the order and table booking dashboard.
+We highly recommend using an Android device or Windows 10 tablet/computer.  Windows provides the greatest flexibility and allows for wireless order printing whilst being able to use the order and table booking dashboard.
 
 ### Worldwide
 
