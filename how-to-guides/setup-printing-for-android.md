@@ -37,7 +37,7 @@ Our system allows you to manually and automatically print out new orders. This g
 
 ### Configure PushPrinter
 
-1. Press the "Settings Cog" and select CloudWaitress.
+1. Press the "Settings Cog" and select MenuPas.
 2. Press on the "Printer Icon" tab at the top to configure a printing service
 3. Copy and paste the API key for the printer you created 2 steps ago
 4. Set the number of copies to print and select your printer
@@ -56,7 +56,7 @@ We have successfully setup 100's of printers, there is a good chance we can save
 
 #### Sides being cut-off
 
-Start by reducing either your Paper Scale Factor to 1.7 and test print again.  Adjust until it fits.
+Start by reducing either your Paper Scale Factor to 1.7 and test print again. Adjust until it fits.
 
 #### Invalid API Key
 
@@ -69,6 +69,4 @@ Check your internet connection or try again shortly
 #### Printing not working even though everything is set up correctly
 
 Please ensure that Android detects your printer. Try restarting your device. Try printing to your printer from other programs on your PC such as your browser.
-
-
 
